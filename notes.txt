@@ -1,0 +1,39 @@
+What is Machine Learning ? Applications of Machine Learning, Future of Machine Learning
+Types of Learning - Supervised, Unsupervised and Reinforcement with examples
+Structure of basic Data-Analysis / Machine Learning Projects ( importing the data, data preprocessing, data visualization, test-train split, constructing the model, tuning the model, finding accuracy on test data, making predictions )
+Explain each step in brief and the need of each step
+Types of Machine Learning Problems - Regression , Classification , Clustering
+
+>>>>>>>>>>>>
+"""
+Theoritical Session
+
+The main aim of the session is to get the kid prepared for the comming lessons on data-analysis and machine learning.
+The kid needs to understand the concept well. Try to avoid the mathematical explanation as far as possible.
+
+The concepts to be discussed are as follows - 
+1) What is Machine Learning ?
+2) Applications of Machine Learning in real world
+3) Types of Machine Learning - 
+    a) Supervised Learning
+    b) Unsupervised Learning
+    c) Reinforcement Learning
+    # Explain the concept of each type of machine leanring with real life scenarios / examples
+
+4) Types of Machine Learning Problems - 
+    a) Regeression
+    b) Classification
+    c) Recommendation
+    # Explain the concept of each problem type with real life scenarios / examples
+
+5) Steps to be followed in a Machine Leanring Project - 
+    a) Gathering the data and load the data into the program
+    b) Data Preprocessing - prepare the data for further machine learning projects
+    c) Data Analysis - Analyse the data so that you can define your input and output columns and drop the rest
+    d) Define Input and Output - Create separate dataframes for input - output 
+    e) Perform the test-train split - Split up the data into testing and training data , Explain the use of training and testing data
+    f) Select the machine learning algorithm perform the training of the model.
+    g) Perform predictions and compare the predictions with actual result to calculate accuracy.
+
+    # Breifly explain the use and concept behind the steps, explain terms such as accuracy, predictions etc which are used in above steps
+
